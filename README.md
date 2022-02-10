@@ -1,1 +1,3 @@
 # push-Notificaions
+
+npm i
